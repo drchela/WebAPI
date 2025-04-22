@@ -1,0 +1,2 @@
+INSERT INTO Alumnos (Nombre,Correo, FechaNacimiento) VALUES ('Jose Enrique Ceballos Martínez', 'jenriqueceballos@gmail.com', '1986-12-18'),
+('Lucila Manriquez', 'lucila@gmail.com', '1986-12-18'), ('Pancracia Manriquez', 'lucila2@gmail.com', '1986-12-18')
